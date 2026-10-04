@@ -38,42 +38,40 @@ Motion
 Главная
 
 <img width="2880" height="4628" alt="desktop-home" src="https://github.com/user-attachments/assets/1bb2d855-8b27-4870-9d86-38f3a1054e9f" />
-![Desktop Home](screenshots/desktop-home.png)
 
 
 Фильмы
 
-
-
+<img width="2880" height="4234" alt="desktop-movies" src="https://github.com/user-attachments/assets/ecb1769f-07aa-48cb-ab85-f1e595c7e401" />
 
 
 Мой список
 
-
-
+<img width="2880" height="1800" alt="desktop-watchlist" src="https://github.com/user-attachments/assets/20a3fe20-600c-4a17-a983-c174fc856fa8" />
 
 
 📱 Tablet
 Главная
 
 
+<img width="1536" height="5382" alt="tablet-home" src="https://github.com/user-attachments/assets/3104d510-210c-40a3-8256-55fc0136521c" />
 
 
 Фильмы
 
-
+<img width="1536" height="4934" alt="tablet-movies" src="https://github.com/user-attachments/assets/d5e2d584-3d6f-4512-a21e-11f0a43bdc38" />
 
 
 Мой список
 
 
+<img width="1536" height="2048" alt="tablet-watchlist" src="https://github.com/user-attachments/assets/df912a85-cf67-44b2-929b-52d4dd8958db" />
 
 
 📱 Mobile
 Главная
 
-
-
+<img width="750" height="5552" alt="phone-home" src="https://github.com/user-attachments/assets/4045234f-cdaa-42df-ba05-92cffa694f5c" />
 
 Фильмы
 
