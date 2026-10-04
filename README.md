@@ -38,6 +38,7 @@ Motion
 Главная
 
 <img width="2880" height="4628" alt="desktop-home" src="https://github.com/user-attachments/assets/1bb2d855-8b27-4870-9d86-38f3a1054e9f" />
+![Desktop Home](screenshots/desktop-home.png)
 
 
 Фильмы
@@ -45,10 +46,10 @@ Motion
 
 
 
+
 Мой список
 
 
-![Uploading desktop-movies.png…]()
 
 
 
