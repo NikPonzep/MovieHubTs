@@ -1,4 +1,4 @@
-<img width="2880" height="4628" alt="desktop-home" src="https://github.com/user-attachments/assets/ae8c3de2-d538-4b9f-8506-185012bfeac8" />🎬 MovieHub
+🎬 MovieHub
 
 MovieHub — веб-приложение для поиска фильмов, просмотра информации о них и формирования списка «Посмотреть позже».
 
@@ -36,7 +36,10 @@ Motion
 📸 Скриншоты
 💻 Desktop
 Главная
+
 <img width="2880" height="4628" alt="desktop-home" src="https://github.com/user-attachments/assets/1bb2d855-8b27-4870-9d86-38f3a1054e9f" />
+
+
 Фильмы
 
 
@@ -44,6 +47,8 @@ Motion
 
 Мой список
 
+
+![Uploading desktop-movies.png…]()
 
 
 
