@@ -78,14 +78,14 @@ Motion
 Фильмы
 
 
-<img width="750" height="1376" alt="phone-watchlist" src="https://github.com/user-attachments/assets/090d75a5-7f91-4aa3-b273-a9df31ae6876" />
+<img width="750" height="5356" alt="phone-movies" src="https://github.com/user-attachments/assets/08ba771e-7ca1-436f-b57c-1d76390f6686" />
+
 
 
 
 Мой список
 
-
-
+<img width="750" height="1376" alt="phone-watchlist" src="https://github.com/user-attachments/assets/090d75a5-7f91-4aa3-b273-a9df31ae6876" />
 
 🚀 Запуск проекта
 
