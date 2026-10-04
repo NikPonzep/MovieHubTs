@@ -1,0 +1,86 @@
+.app {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.hero {
+    margin: 35px 0;
+    padding: 65px 30px;
+    text-align: center;
+    background: linear-gradient(145deg, #182235, #111827);
+    border: 1px solid #263044;
+    border-radius: 20px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
+}
+
+.hero h2 {
+    font-size: 40px;
+    margin: 0 0 12px;
+    line-height: 1.15;
+}
+
+.hero p {
+    color: #94a3b8;
+    margin: 0;
+    font-size: 17px;
+}
+
+.search_section {
+    margin-bottom: 35px;
+}
+
+.search_section form {
+    display: flex;
+    gap: 10px;
+}
+
+.search_section input {
+    flex: 1;
+    width: 100%;
+    padding: 15px 18px;
+    border: 1px solid #2b3952;
+    border-radius: 10px;
+    background: #111827;
+    color: #ffffff;
+    outline: none;
+    transition: 0.2s ease;
+}
+
+.search_section input::placeholder {
+    color: #64748b;
+}
+
+.search_section input:focus {
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+.search_section button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: none;
+    padding: 0 24px;
+    border-radius: 10px;
+    background: #6366f1;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.search_section button:hover {
+    background: #818cf8;
+    transform: translateY(-1px);
+}
+
+@media (max-width: 600px) {
+    .hero {
+        padding: 45px 20px;
+        margin: 25px 0;
+    }
+
+    .hero h2 {
+        font-size: 30px;
+    }
+}

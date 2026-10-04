@@ -1,0 +1,16 @@
+.page {
+    padding-top: 35px;
+}
+
+.title {
+    margin: 0 0 25px;
+    font-size: 28px;
+}
+
+.empty {
+    padding: 30px;
+    background: #1f2937;
+    border-radius: 15px;
+    color: #94a3b8;
+    text-align: center;
+}

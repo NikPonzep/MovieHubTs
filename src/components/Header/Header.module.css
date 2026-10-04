@@ -1,0 +1,105 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    border-bottom: 1px #182232;
+}
+
+.logo {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: #94a3b8;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.link:hover {
+    color: #ffffff;
+}
+
+.link svg {
+    font-size: 18px;
+}
+
+.movie p {
+    margin: 0;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.header>a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header nav {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.header nav a {
+    color: #94a3b8;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.2s ease;
+}
+
+.header nav a:hover {
+    color: #ffffff;
+}
+
+.movie {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #182235;
+    padding: 10px 16px;
+    border: 1px solid #2b3952;
+    border-radius: 10px;
+    color: #94a3b8;
+    font-size: 14px;
+}
+
+.movie p {
+    color: #ffffff;
+}
+
+@media (max-width: 600px) {
+    .header {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .header h1 {
+        font-size: 22px;
+    }
+
+    .header nav {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+        gap: 18px;
+    }
+
+    .movie {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+}

@@ -1,0 +1,36 @@
+.watch_panel {
+    margin-top: 40px;
+    padding: 25px;
+    background: #1f2937;
+    border-radius: 15px;
+}
+
+.watch_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 0;
+    border-bottom: 1px solid #263044;
+}
+
+.watch_item:last-child {
+    border-bottom: none;
+}
+
+.watch_item button {
+    border: none;
+    background: #251a1f;
+    color: #f87171;
+    cursor: pointer;
+    font-size: 17px;
+    padding: 7px 10px;
+    border-radius: 7px;
+    transition: 0.2s ease;
+    
+}
+
+.watch_item button:hover {
+    background: #3a2027;
+    transform: scale(1.2);
+}

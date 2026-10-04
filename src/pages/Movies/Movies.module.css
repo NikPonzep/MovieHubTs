@@ -1,0 +1,60 @@
+.moviesPage {
+    padding-top: 35px;
+}
+
+.title {
+    margin: 0 0 20px;
+    font-size: 26px;
+}
+
+.search {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 35px;
+}
+
+.search input {
+    flex: 1;
+    width: 100%;
+    padding: 15px 18px;
+    border: 1px solid #2b3952;
+    border-radius: 10px;
+    background: #111827;
+    color: #ffffff;
+    outline: none;
+}
+
+.search input::placeholder {
+    color: #64748b;
+}
+
+.search input:focus {
+    border-color: #6366f1;
+}
+
+.search button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: none;
+    padding: 0 24px;
+    border-radius: 10px;
+    background: #6366f1;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.search button:hover {
+    background: #818cf8;
+}
+
+@media (max-width: 600px) {
+    .search {
+        flex-direction: column;
+    }
+
+    .search button {
+        padding: 13px;
+    }
+}
